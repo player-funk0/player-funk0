@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:1B4332&text=Moaaz%20Sameh&fontColor=2ECC71&fontSize=42&fontAlignY=40&desc=Founder%20%26%20Chief%20Architect%20%40Obrynex&descAlignY=62&descSize=18&descColor=E6E6E6&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,100:1B4332&animation=fadeIn" alt="header" width="100%"/>
+
+<h1>Moaaz Sameh</h1>
+<h3>Founder & Chief Architect @Obrynex</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=2ECC71&center=true&vCenter=true&width=560&lines=Pure+edge+computing.;Extreme+minimalism.;Everything+runs+offline%2C+on-device." alt="Typing SVG" />
 
@@ -98,7 +101,7 @@ A Windows desktop app (Electron) bundling a study planner with stopwatch/countdo
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=player-funk0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=E6E6E6" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=player-funk0&theme=dark&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub Streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=player-funk0&theme=dark&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub Streak" height="165"/>
 </div>
 
 <div align="center">
