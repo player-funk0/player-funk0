@@ -27,7 +27,7 @@
 
 > I keep my bio short and my codebase shorter than it needs to be, then delete half of it anyway.
 
-I'm **Moaaz** — 18, based in Egypt, building **[Obrynex](https://web.obrynex.workers.dev)**: offline-first, privacy-respecting Android software and intelligent systems that don't need a server to be useful.
+I'm **Moaaz** — 14, based in Egypt, building **[Obrynex](https://web.obrynex.workers.dev)**: offline-first, privacy-respecting Android software and intelligent systems that don't need a server to be useful.
 
 ---
 
