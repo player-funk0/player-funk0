@@ -7,6 +7,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=2ECC71&center=true&vCenter=true&width=560&lines=Pure+edge+computing.;Extreme+minimalism.;Everything+runs+offline%2C+on-device." alt="Typing SVG" />
 
+<br/>
+
+<img src="https://img.shields.io/github/followers/player-funk0?label=Followers&style=flat-square&color=2ECC71&logo=github&logoColor=white&labelColor=0D1117" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fplayer-funk0&label=Public%20Repos&query=%24.public_repos&color=2ECC71&style=flat-square&labelColor=0D1117&logo=github&logoColor=white" alt="Public Repos"/>
+<img src="https://img.shields.io/badge/Location-Egypt-2ECC71?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=white" alt="Location"/>
+
 </div>
 
 I'm **Moaaz** — 14, based in Egypt, building **[Obrynex](https://web.obrynex.workers.dev)**: offline-first, privacy-respecting Android software and intelligent systems that don't need a server to be useful.
@@ -88,6 +94,14 @@ A Windows desktop app (Electron) bundling a study planner with stopwatch/countdo
 
 ---
 
+### 🔭 Currently
+
+- Building **Serene Focus** — refining the AccessibilityService scroll monitor and overlay lifecycle.
+- Building the **Obrynex custom keyboard (IME)** — Compose-in-IME rendering, wired up from scratch.
+- Always looking for the next thing that shouldn't need a server, but usually does.
+
+---
+
 ### 🧭 Philosophy
 
 - **Offline-first is a constraint, not a limitation.** If an app needs the internet to be useful, I've usually made a design mistake.
@@ -97,18 +111,14 @@ A Windows desktop app (Electron) bundling a study planner with stopwatch/countdo
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-<img src="https://img.shields.io/github/followers/player-funk0?label=Followers&style=for-the-badge&color=2ECC71&logo=github&logoColor=white&labelColor=0D1117" alt="Followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fplayer-funk0&label=Public%20Repos&query=%24.public_repos&color=2ECC71&style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Public Repos"/>
-</div>
-
 <div align="center">
 
-<br/>
+### 📫 Connect
 
-**[Obrynex](https://web.obrynex.workers.dev)** · Egypt
+<a href="https://github.com/player-funk0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://web.obrynex.workers.dev"><img src="https://img.shields.io/badge/Obrynex-2ECC71?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Obrynex"/></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1B4332,100:0D1117&section=footer&animation=fadeIn" alt="footer" width="100%"/>
 
