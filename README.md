@@ -100,8 +100,8 @@ A Windows desktop app (Electron) bundling a study planner with stopwatch/countdo
 ### 📊 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=player-funk0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=E6E6E6" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=player-funk0&theme=dark&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub Streak" height="165"/>
+<img src="https://img.shields.io/github/followers/player-funk0?label=Followers&style=for-the-badge&color=2ECC71&logo=github&logoColor=white&labelColor=0D1117" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fplayer-funk0&label=Public%20Repos&query=%24.public_repos&color=2ECC71&style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Public Repos"/>
 </div>
 
 <div align="center">
