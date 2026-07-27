@@ -108,6 +108,20 @@ A Windows desktop app (Electron) bundling a study planner with stopwatch/countdo
 <a href="https://github.com/player-funk0/study-companion-web_and_windows"><b>View repository →</b></a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🎙️ Offline Assistant</h4>
+Voice-controlled Android device management — flashlight, calls, alarms, app launching, email drafts — driven by a rule-based on-device NLP engine that parses bilingual (English/Arabic) intents with zero cloud APIs. No <code>INTERNET</code> permission; command history is explicitly excluded from Android's cloud auto-backup.
+<br/><br/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Room-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/On--Device%20NLP-2ECC71?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
+<h4>♟️ Chess Engine</h4>
+A chess engine and Pygame GUI built entirely from scratch — no <code>python-chess</code>, no Stockfish. Negamax with alpha-beta pruning, Zobrist-hashed transposition table, quiescence search, null-move pruning, late move reduction, and a tapered piece-square-table evaluation with pawn-structure scoring.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pygame-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/Alpha--Beta%20Search-2ECC71?style=flat-square"/>
+</td>
+</tr>
 </table>
 
 ---
