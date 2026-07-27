@@ -105,7 +105,7 @@ A Windows desktop app (Electron) bundling a study planner with stopwatch/countdo
 <br/><br/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <br/><br/>
-<a href="https://github.com/player-funk0/study-companion-web_and_windows"><b>View repository →</b></a>
+<a href="https://github.com/player-funk0/study-companion-web_and_windows-app"><b>View repository →</b></a>
 </td>
 </tr>
 <tr>
